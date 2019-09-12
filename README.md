@@ -1,5 +1,15 @@
 # MLHackathon
-India ML hackathon challenge
+
+# About India ML Hiring Hackathon 2019
+This year, India will be celebrating its 73rd Independence Day !  For us proud Indians, this a day to celebrate our past, enjoy the present and be optimistic about our country's bright future.
+ 
+What else could be the best way to do this but to help build career of future data scientists of India ! and that is exactly what we will be doing this Independence Day.
+ 
+On this year's Independence, Analytics Vidhya is proud to present the "India Machine Learning Hiring Hackathon- 2019" - India's Largest Hiring Hackathon where every data science aspirant and professional will get an opportunity to showcase their talent and get the chance to interview with top organizations for job roles in Data Science, Machine Learning & Analytics. Be it Bengaluru, Delhi NCR, Mumbai, Pune, Chennai or Hyderabad; here is a chance to perform and get placed with a top company at your preferred location.
+ 
+Data Science is already helping solve various kinds of problems in India and power projects like - Smart India, power the agriculture industry, define and deploy policies to uplift the social strength, improve the healthcare, electricity & water services and much more.  Get ready to solve an exciting data science challenge this Independence week and become a part of India's Next-gen Data Science Ecosystem- Jai Hind !
+ 
+It's time to democratise data science and give more and more career opportunities to the data science community of India. 
 
 # Approach 
 
@@ -31,11 +41,6 @@ India ML hackathon challenge
 
 # 6.Prediction
 - Best prdictive model is used for submission. 
-
-
-
-
-
 
 
 ### Predict_loan_deliquency.ipynb -  contains Data Visualization and overall approch 
